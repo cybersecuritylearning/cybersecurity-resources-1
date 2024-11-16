@@ -16,6 +16,7 @@
 - [Websec.fr](https://websec.fr/)
 - [WrongSecrets](https://github.com/commjoen/wrongsecrets)
 - [XSS Game](https://xss-game.appspot.com/)
+- [CyberPython](https://pythoncyber.go.ro)
 
 ## Repos
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
